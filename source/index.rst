@@ -6,7 +6,7 @@
 Welcome to journal's documentation!
 ===================================
 
-Contents: test
+Contents: test pc change
 
 .. toctree::
    :maxdepth: 2
