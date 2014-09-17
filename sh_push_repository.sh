@@ -3,11 +3,11 @@
 make html
 
 cd build/html/
-git add .
+git add -A
 git commit -m $1
-git push origine gh-pages
+git push origin gh-pages
 
 cd -
 git add -A
 git commit -m $1
-git push origine master
+git push origin master
