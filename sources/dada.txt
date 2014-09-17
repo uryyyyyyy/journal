@@ -9,4 +9,4 @@ sample
 -  dada
 -  dadada
 
-(github)[https://github.com]
+`github <https://github.com>`__
