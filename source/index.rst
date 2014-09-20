@@ -3,23 +3,29 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to journal's documentation!
-===================================
+shake-freek journal's documentation!
+====================================
 
 Contents:
 
-.. toctree::
-   :maxdepth: 1
 
-    一つ目のファイル </first>
-    2つ目のファイル </sample>
 
 refTest :ref:`sample1` 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 1
 
+   person/index
+   incident/index
+   group/index
+   sandbox/index
+
+
+
+* :ref:`personIndex`
+* :ref:`incidentIndex`
+* :ref:`groupIndex`
+* :ref:`sandboxIndex`
