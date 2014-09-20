@@ -15,13 +15,6 @@ refTest :ref:`sample1`
 Indices and tables
 ==================
 
-.. toctree::
-   :maxdepth: 1
-
-   person/index
-   incident/index
-   group/index
-   sandbox/index
 
 
 
@@ -29,3 +22,6 @@ Indices and tables
 * :ref:`incidentIndex`
 * :ref:`groupIndex`
 * :ref:`sandboxIndex`
+* :ref:`ObjectIndex`
+
+

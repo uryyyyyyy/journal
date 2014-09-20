@@ -1,3 +1,4 @@
+:orphan:
 
 .. contents:: これは目次です
 
@@ -8,12 +9,6 @@
 =========
 
 1 章、1.1節などのように番号を振りたい場合、toctreeにnumberdオプションを加えます。
-
-.. toctree::
-	:maxdepth: 2
-
-	first
-
 
 
 用語を定義したい

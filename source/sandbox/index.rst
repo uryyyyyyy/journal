@@ -1,13 +1,9 @@
+:orphan:
+
 .. _sandboxIndex:
 
 sandboxIndex
 ============
-
-.. toctree::
-	:maxdepth: 2
-
-	sample
-	first
 
 
 Contents:
