@@ -2,11 +2,11 @@
 .. _UnitedKingdom:
 
 イギリス
-----
+---------
 
 
 事象
---
+-------
 
  :ref:`140920_ScotlandIndependence`.
 
