@@ -23,5 +23,5 @@ Indices and tables
 * :ref:`groupIndex`
 * :ref:`sandboxIndex`
 * :ref:`ObjectIndex`
-
+* :ref:`MatterIndex`
 

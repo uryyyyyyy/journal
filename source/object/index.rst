@@ -5,5 +5,6 @@
 objectIndex
 =============
 
-.. toctree::
-
+* :ref:`CoomaraswamyReport`.
+* :ref:`YoshidaWorkReport`.
+* :ref:`YoshidaTestimony`.

@@ -1,8 +1,9 @@
+:orphan:
 
 .. _IslamicStateOfIraqAndSyria:
 
 イスラム国
------------
+==================
 
 
 概要

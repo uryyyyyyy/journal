@@ -5,13 +5,9 @@
 groupIndex
 ==========
 
-.. toctree::
-   :maxdepth: 1
-
-   unitedKingdom
-   IslamicStateOfIraqAndSyria
-
-
-:ref:`UnitedKingdom`.
-
- :ref:`140920_ScotlandIndependence`.
+* :ref:`UnitedKingdom`.
+* :ref:`IslamicStateOfIraqAndSyria`.
+* :ref:`USA`.
+* :ref:`Japan`.
+* :ref:`Russia`.
+* :ref:`AsahiNewsPaper`.

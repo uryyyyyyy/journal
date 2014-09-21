@@ -5,3 +5,7 @@
 personIndex
 ===========
 
+* :ref:`AbeSinzo`.
+* :ref:`VladimirPutin`.
+* :ref:`YoshidaMasao`.
+* :ref:`YoshidaSeiji`.
